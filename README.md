@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://cdn.discordapp.com/icons/819284631601414156/a_624ea0de7226e953f2a92179e65735b7.webp?size=96" alt="MitzoBot-Icon">
+  <img width="200" src="https://cdn.discordapp.com/icons/819284631601414156/a_624ea0de7226e953f2a92179e65735b7.webp" alt="MitzoBot-Icon">
 </p>
 
 <h1 align="center"> Mitzo-Bot Python </h1>
